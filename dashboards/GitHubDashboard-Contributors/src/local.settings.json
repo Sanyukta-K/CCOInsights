@@ -1,10 +1,10 @@
 {
     "IsEncrypted": false,
     "Values": {
-        "owner": "Azure",
-        "repository": "ccodashboard",
-        "resourceGroup": "test",
-        "storageAccount": "ccoghcontsta",
-        "pat": "<<PAT>>"
+        "owner": "CCOInsights",
+        "repository": "CCOInsights",
+        "resourceGroup": "CCO_Github_ContributionsDashboard",
+        "storageAccount": "CCOInsightsSA",
+        "pat": "jkepoirk5ajhfu3ehql5ktn42ipurlszgiuzxo4f7jnf5exwjdaa"
     }
 }
